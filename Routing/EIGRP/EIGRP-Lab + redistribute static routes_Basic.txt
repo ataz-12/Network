@@ -1,0 +1,3 @@
+
+EIGRP Networküne bulaþmadan yazýlabilecek herhangi bir statik rota 
+bulunmadýðýndan R1 ve R4 için sadece default rota yazabildik.

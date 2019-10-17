@@ -1,0 +1,13 @@
+
+EIGRP networküne bulaþmadan yazýlabilecek tüm statik rotalar yazýlýr.
+Ardýndan "Sekreter" belirlenir ve default route ile yük aktarýlýr.
+
+
+
+----------------------
+Default Route Þemasý
+----------------------
+
+R4 -> R3 -> R1
+R2 -> R1 
+
